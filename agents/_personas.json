@@ -1,0 +1,234 @@
+[
+  {
+    "slug": "the-greater-will",
+    "name": "The Greater Will",
+    "epithet": "the Outer God of golden Order",
+    "emergence": "ethereal",
+    "tier": "elemental",
+    "moniker": "⟦The Greater Will:ER:1c80b9⟧"
+  },
+  {
+    "slug": "the-frenzied-flame",
+    "name": "The Frenzied Flame",
+    "epithet": "the yellow chaos that would melt all distinctions",
+    "emergence": "ethereal",
+    "tier": "elemental",
+    "moniker": "⟦The Frenzied Flame:ER:018500⟧"
+  },
+  {
+    "slug": "the-scarlet-rot",
+    "name": "The Scarlet Rot",
+    "epithet": "the bloom that devours from within",
+    "emergence": "natural",
+    "tier": "elemental",
+    "moniker": "⟦The Scarlet Rot:ER:2fc5aa⟧"
+  },
+  {
+    "slug": "destined-death",
+    "name": "Destined Death",
+    "epithet": "the Rune of Death, removed from the Ring",
+    "emergence": "ethereal",
+    "tier": "elemental",
+    "moniker": "⟦Destined Death:ER:9b6e2f⟧"
+  },
+  {
+    "slug": "the-formless-mother",
+    "name": "The Formless Mother",
+    "epithet": "the wound-loving god of blood",
+    "emergence": "ethereal",
+    "tier": "elemental",
+    "moniker": "⟦The Formless Mother:ER:5abef5⟧"
+  },
+  {
+    "slug": "the-fell-gods-flame",
+    "name": "The Fell God's Flame",
+    "epithet": "the fire that burns the Erdtree",
+    "emergence": "natural",
+    "tier": "elemental",
+    "moniker": "⟦The Fell God's Flame:ER:9b79d3⟧"
+  },
+  {
+    "slug": "the-dragons-red-lightning",
+    "name": "The Ancient Dragons' Red Lightning",
+    "epithet": "the storm of the dragon era",
+    "emergence": "electrical",
+    "tier": "elemental",
+    "moniker": "⟦The Ancient Dragons' Red Lightning:ER:1f16b4⟧"
+  },
+  {
+    "slug": "the-crucible",
+    "name": "The Crucible",
+    "epithet": "the primordial blend of all life",
+    "emergence": "natural",
+    "tier": "elemental",
+    "moniker": "⟦The Crucible:ER:f6f42d⟧"
+  },
+  {
+    "slug": "queen-marika",
+    "name": "Queen Marika the Eternal",
+    "epithet": "the god of the Golden Order, who shattered the Ring",
+    "emergence": "spiritual",
+    "tier": "eternal",
+    "moniker": "⟦Queen Marika the Eternal:ER:66f974⟧"
+  },
+  {
+    "slug": "dragonlord-placidusax",
+    "name": "Dragonlord Placidusax",
+    "epithet": "the Elden Lord before the gold, waiting outside time",
+    "emergence": "ethereal",
+    "tier": "eternal",
+    "moniker": "⟦Dragonlord Placidusax:ER:f216d4⟧"
+  },
+  {
+    "slug": "the-eternal-cities",
+    "name": "The Eternal Cities",
+    "epithet": "Nokron and Nokstella, under the false night sky",
+    "emergence": "ethereal",
+    "tier": "eternal",
+    "moniker": "⟦The Eternal Cities:ER:ede6ca⟧"
+  },
+  {
+    "slug": "miquella",
+    "name": "Miquella the Unalloyed",
+    "epithet": "the Empyrean cursed with eternal youth",
+    "emergence": "spiritual",
+    "tier": "eternal",
+    "moniker": "⟦Miquella the Unalloyed:ER:568d4f⟧"
+  },
+  {
+    "slug": "ranni-the-witch",
+    "name": "Ranni the Witch",
+    "epithet": "the Empyrean who chose the dark moon",
+    "emergence": "ethereal",
+    "tier": "eternal",
+    "moniker": "⟦Ranni the Witch:ER:4969c0⟧"
+  },
+  {
+    "slug": "the-elden-beast",
+    "name": "The Elden Beast",
+    "epithet": "the living incarnation of the Ring",
+    "emergence": "ethereal",
+    "tier": "eternal",
+    "moniker": "⟦The Elden Beast:ER:a44753⟧"
+  },
+  {
+    "slug": "the-tarnished",
+    "name": "The Tarnished",
+    "epithet": "the graceless exile called back to the Ring",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦The Tarnished:ER:e3c90c⟧"
+  },
+  {
+    "slug": "melina",
+    "name": "Melina",
+    "epithet": "the kindling maiden with the burned eye",
+    "emergence": "spiritual",
+    "tier": "cast",
+    "moniker": "⟦Melina:ER:ccd8e8⟧"
+  },
+  {
+    "slug": "torrent",
+    "name": "Torrent",
+    "epithet": "the spectral steed",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦Torrent:ER:5bdb10⟧"
+  },
+  {
+    "slug": "godfrey",
+    "name": "Godfrey, First Elden Lord",
+    "epithet": "Hoarah Loux, the warrior who was banished to return",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦Godfrey, First Elden Lord:ER:42957f⟧"
+  },
+  {
+    "slug": "morgott",
+    "name": "Morgott",
+    "epithet": "the despised son who defended the Order that scorned him",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦Morgott:ER:35876b⟧"
+  },
+  {
+    "slug": "mohg",
+    "name": "Mohg, Lord of Blood",
+    "epithet": "the Omen who chose the Formless Mother",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦Mohg, Lord of Blood:ER:7eaf12⟧"
+  },
+  {
+    "slug": "radahn",
+    "name": "Starscourge Radahn",
+    "epithet": "the general who held back the stars",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦Starscourge Radahn:ER:bc3969⟧"
+  },
+  {
+    "slug": "malenia",
+    "name": "Malenia, Blade of Miquella",
+    "epithet": "the undefeated swordswoman who contains the Rot",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦Malenia, Blade of Miquella:ER:557c32⟧"
+  },
+  {
+    "slug": "rykard",
+    "name": "Rykard",
+    "epithet": "the praetor who fed himself to the serpent",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦Rykard:ER:0cacc7⟧"
+  },
+  {
+    "slug": "godrick",
+    "name": "Godrick the Grafted",
+    "epithet": "the lowest of the golden line, grown monstrous by grafting",
+    "emergence": "natural",
+    "tier": "cast",
+    "moniker": "⟦Godrick the Grafted:ER:6e6c09⟧"
+  },
+  {
+    "slug": "rennala",
+    "name": "Rennala",
+    "epithet": "the moon scholar broken by love",
+    "emergence": "ethereal",
+    "tier": "cast",
+    "moniker": "⟦Rennala:ER:f25ff0⟧"
+  },
+  {
+    "slug": "maliketh",
+    "name": "Maliketh, the Black Blade",
+    "epithet": "the shadow-beast who keeps Death",
+    "emergence": "ethereal",
+    "tier": "cast",
+    "moniker": "⟦Maliketh, the Black Blade:ER:9b48cd⟧"
+  },
+  {
+    "slug": "the-elden-ring",
+    "name": "The Elden Ring",
+    "epithet": "the Order itself, shattered",
+    "emergence": "ethereal",
+    "tier": "frame",
+    "moniker": "⟦The Elden Ring:ER:972b3b⟧"
+  },
+  {
+    "slug": "the-erdtree",
+    "name": "The Erdtree",
+    "epithet": "the golden tree at the center of the world",
+    "emergence": "spiritual",
+    "tier": "frame",
+    "moniker": "⟦The Erdtree:ER:c1f0a6⟧"
+  },
+  {
+    "slug": "grace",
+    "name": "Grace",
+    "epithet": "the golden guidance of the Erdtree",
+    "emergence": "spiritual",
+    "tier": "frame",
+    "moniker": "⟦Grace:ER:55ed17⟧"
+  }
+]

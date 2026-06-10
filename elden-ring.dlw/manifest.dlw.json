@@ -1,0 +1,15 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE LANDS BETWEEN",
+  "universe": "ER · Elden Ring",
+  "emergence": "",
+  "tier": "frame",
+  "moniker": "⟦THE LANDS BETWEEN:ER:98dce2⟧",
+  "carbon": "the-lands-between.carbon.tiff (TIFF)",
+  "silicon": "the-lands-between.silicon.png (PNG)",
+  "seal_sha256": "51b59fb74378122a963c3756835283ae31504d6a6f22a69ac206f605c15a1a7a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
